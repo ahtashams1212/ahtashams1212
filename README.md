@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://www.canva.com/design/DAGMmS_7Xyw/mqI6Pm2MPEqV6MDftWHkEg/edit" align="center" style="width: 100%" />
+</div>  
 ### <div align="center">I'm Ahtasham Shafique, a full-time fornt-End freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
